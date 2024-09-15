@@ -13,7 +13,7 @@
 ..    :target: http://ec2-35-157-197-184.eu-central-1.compute.amazonaws.com
 
 ==============================
-Django Material Administration
+Django Material Administration 5.x
 ==============================
 
 
